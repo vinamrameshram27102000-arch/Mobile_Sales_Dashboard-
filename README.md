@@ -23,7 +23,7 @@ An end-to-end Power BI project designed to analyze and visualize mobile phone sa
 ##  Dashboard Preview
 | Dark Theme | Light Theme |
 |------------|-------------|
-| ![Dark Dashboard]() | ![Light Dashboard]() 
+| ![Dark Dashboard](https://github.com/vinamrameshram27102000-arch/Mobile_Sales_Dashboard-/blob/main/mobile%20sales%20dashboard%20(Blue%20Version).png) | ![Light Dashboard]() 
 
 ##  Key Insights from the Data
 1.  *Top Performer:* Apple leads the market share with *21.01%* of total sales.
