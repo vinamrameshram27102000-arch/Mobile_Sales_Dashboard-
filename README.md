@@ -31,7 +31,4 @@ An end-to-end Power BI project designed to analyze and visualize mobile phone sa
 3.  *Customer Profile:* The *30-40 age group* represents the largest customer segment.
 4.  *Payment Trends:* *UPI* is the most preferred payment method at *26.22%*, closely followed by Debit Cards.
 
-## 🚀 How to Use
-1. Clone this repository.
-2. Open the .pbix file in Power BI Desktop.
-3. Use the slicers on the right to interact with the data.
+
